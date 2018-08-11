@@ -88,7 +88,6 @@ Module Module1
         For i = 1 To 9
             chess(2, i) = 11
         Next i
-        chess(6, 3) = 11
         chess(8, 1) = 22
         chess(8, 2) = 23
         chess(8, 3) = 24
